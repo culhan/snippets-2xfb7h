@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://culhan.github.io/snippets-2xfb7h/sitemap.xml
